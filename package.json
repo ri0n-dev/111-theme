@@ -2,7 +2,7 @@
   "name": "111-theme",
   "displayName": "111-theme",
   "description": "This is a theme based on #111, and it works with VSCode.",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "Rion",
   "license": "MIT",
   "engines": {
@@ -15,6 +15,15 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color-theme"
+  ],
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
