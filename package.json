@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.103.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ri0n-dev/111-theme.git"
+  },
   "categories": [
     "Themes"
   ],

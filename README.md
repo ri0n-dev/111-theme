@@ -3,4 +3,4 @@
 This is a theme I tweaked to my taste.  
 It’s based on #111, so it’s a dark vibe. No light theme here — #111 life ;)
 
-![#111-screenshot](./screenshots/#111-vscode.png)
+![vscode-screenshot](https://github.com/ri0n-dev/111-theme/blob/main/screenshots/%23111-vscode.png)
