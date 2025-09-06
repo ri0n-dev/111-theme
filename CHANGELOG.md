@@ -1,7 +1,12 @@
 # Change Log
 
-All notable changes to the "111-theme" extension will be documented in this file.
+All notable changes to the "111-theme" extension will be documented in this
+file.
 
-## [Unreleased]
+## Ver. 20250906-2-fix-package
 
-- Initial release
+- **Fix**: Package contents
+
+## Ver. 20250906-1
+
+- **Add**: New Theme🎉
