@@ -6,7 +6,7 @@
   "publisher": "Rion",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.80.0"
   },
   "repository": {
     "type": "git",
