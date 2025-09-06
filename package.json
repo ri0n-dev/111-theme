@@ -12,9 +12,19 @@
     "type": "git",
     "url": "https://github.com/ri0n-dev/111-theme.git"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color-theme"
+  ],
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
