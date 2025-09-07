@@ -1960,7 +1960,7 @@
         "editorInfo.foreground": "#75beff",
         "editorInfo.background": "#4490BF00",
         "editorInfo.border": "#4490BF00",
-        "editorGutter.background": "#1e1e1e",
+        "editorGutter.background": "#151515",
         "editorGutter.modifiedBackground": "#0c7d9d",
         "editorGutter.addedBackground": "#587c0c",
         "editorGutter.deletedBackground": "#94151b",
