@@ -2,16 +2,17 @@
   "name": "111-theme",
   "displayName": "111-theme",
   "description": "This is a theme based on #111, and it works with VSCode.",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "Rion",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.80.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/ri0n-dev/111-theme.git"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
