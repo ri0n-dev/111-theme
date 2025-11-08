@@ -2,7 +2,7 @@
   "name": "111-theme",
   "displayName": "111-theme",
   "description": "This is a theme based on #111, and it works with VSCode.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Rion",
   "license": "MIT",
   "engines": {
